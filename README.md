@@ -24,7 +24,7 @@
 <p>In my latest project, I learnt about mathematical foundations in functional programming 🏆</p>
 
 :muscle: I am started sharing my knowledge on the blog by creating content about FP and Architecture.<br />
-:eyes: I’m currently learning ... Kotlin<br />
+:eyes: I’m currently learning ... Kubernetes and Redis<br />
 :raising_hand: I’m looking to collaborate with ... open source project relying on FP in Kotlin <br />
 :dizzy_face: I’m looking for help with ... my dog<br />
 💬 Ask me about anything related to... my content. I am happy to help.<br />
