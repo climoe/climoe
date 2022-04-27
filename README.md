@@ -12,6 +12,7 @@
 <br />
 
 <h2 align="center">Programming topics I'm working on 💻</h2>
+    Leveraging lastest feature of java -sealed classes to build algebraic hierarchied data types
 <br />
 
 <h2 align="center">About me 😇</h2>
